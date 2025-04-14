@@ -1,4 +1,5 @@
 import os,sys
 import time
-print("hello,world")
+print("Hello,world")
 print(sys.platform)
+print(sys.version_info)
